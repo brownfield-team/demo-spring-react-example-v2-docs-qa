@@ -20,6 +20,6 @@ collections:
     permalink: /branches/:path/
 
 repo_name: "This-should-be-overridden-by-github-actions-script"
-repo: brownfield-team/demo-spring-react-example-v2
+repo: brownfield-team/kanban-populator
 owner: brownfield-team
-repo_name: demo-spring-react-example-v2
+repo_name: kanban-populator
